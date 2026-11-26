@@ -43,13 +43,13 @@ export const DEFAULT_EXPRESSIONS: ExpressionItem[] = [
     id: 'exp-2',
     expression: 'Millions down the drain',
     meaning: '거액의 돈이 헛수고로 날아가다',
-    movie: 'Minari',
+    movie: 'Notting Hill',
   },
   {
     id: 'exp-3',
     expression: "You've been through a lot",
     meaning: '고생했다',
-    movie: 'Inside Out 2',
+    movie: 'Minari',
   },
   {
     id: 'exp-4',
@@ -61,7 +61,7 @@ export const DEFAULT_EXPRESSIONS: ExpressionItem[] = [
     id: 'exp-5',
     expression: 'bittersweet',
     meaning: '씁쓸하면서도 달콤한',
-    movie: 'Notting Hill',
+    movie: 'Minari',
   },
 ];
 

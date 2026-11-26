@@ -14,7 +14,7 @@ import { AppStep, Beat, ExpressionItem, SceneSettings, VisualStyle } from './typ
 import { cancelWebSpeech } from './utils/speechUtils';
 import { getMatchedExpressionIds } from './utils/storyUtils';
 
-const STORAGE_KEY = 'ttsg_studio_state_v1';
+const STORAGE_KEY = 'ttsg_studio_state_v2';
 
 interface PersistedState {
   expressions: ExpressionItem[];
